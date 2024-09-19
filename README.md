@@ -1,5 +1,8 @@
 https://www.kaggle.com/code/kaanayduvann/churn-analysis-and-anomaly-dedection-of-googleapps
 
+Not: Düzenlemeye girdiğinizde daha rahat okuyacaksınız.
+
+
 Seçtiğimiz veri seti Google Play Store Apps ve şu sütunları içeriyor:
 
    App Name : Uygulamarın ismini içerir.
