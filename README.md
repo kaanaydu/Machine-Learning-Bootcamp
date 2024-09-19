@@ -1,6 +1,6 @@
 https://www.kaggle.com/code/kaanayduvann/churn-analysis-and-anomaly-dedection-of-googleapps
 
-Not: Düzenlemeye girdiğinizde daha rahat okuyacaksınız.
+Not: Düzenlemeye girdiğinizde veya code formatında baktığınızda rahatça okuyacaksınız.
 
 
 Seçtiğimiz veri seti Google Play Store Apps ve şu sütunları içeriyor:
